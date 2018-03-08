@@ -16,9 +16,9 @@ class VoteScoreDao
     /**
      * VoteScoreDao constructor.
      */
-    public function __construct(Memcached $connexionMemcache)
+    public function __construct(Memcached $connexion)
     {
-        $this->connexion = $connexionMemcache;
+        $this->connexion = $connexion;
     }
 
     /**

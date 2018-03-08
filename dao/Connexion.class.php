@@ -1,6 +1,6 @@
 <?php
 
-class ConnexionMemcache
+class Connexion
 {
     const MEMCACHE_ADDRESS = "127.0.0.1";
     const MEMCACHE_PORT = 11211;

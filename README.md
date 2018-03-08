@@ -11,8 +11,5 @@ When it's ok, You can just try this : php index.php
 
 # Thanks for your donations! 
 
--> Paypal   --   XD
+-> Paypal   -- 
 
-
-
-    
